@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "lightImage": "/img/clients/brands/light/image (5).webp",
+        "darkImage": "/img/clients/brands/dark/01.png",
+        "url": "www.Vnnovate.com"
+    },
+    {
+        "id": 2,
+        "lightImage": "/img/clients/brands/light/image (6).png",
+        "darkImage": "/img/clients/brands/dark/02.png",
+        "url": "www.Vnnovate.com"
+    },
+    {
+        "id": 3,
+        "lightImage": "/img/clients/brands/light/image (16).webp",
+        "darkImage": "/img/clients/brands/dark/03.png",
+        "url": "www.Vnnovate.com"
+    },
+    {
+        "id": 4,
+        "lightImage": "/img/clients/brands/light/images.png",
+        "darkImage": "/img/clients/brands/dark/04.png",
+        "url": "www.Vnnovate.com"
+    },
+    {
+        "id": 5,
+        "lightImage": "/img/clients/brands/light/image (10).jpg",
+        "darkImage": "/img/clients/brands/dark/05.png",
+        "url": "www.Vnnovate.com"
+    },
+    {
+        "id": 6,
+        "lightImage": "/img/clients/brands/light/cigar-bros.webp",
+        "darkImage": "/img/clients/brands/dark/06.png",
+        "url": "www.Vnnovate.com"
+    },
+    {
+        "id": 7,
+        "lightImage": "/img/clients/brands/light/image (9).png",
+        "darkImage": "/img/clients/brands/dark/07.png",
+        "url": "www.Vnnovate.com"
+    },
+    {
+        "id": 8,
+        "lightImage": "/img/clients/brands/light/amezon.webp",
+        "darkImage": "/img/clients/brands/dark/08.png",
+        "url": "www.Vnnovate.com"
+    }
+]
