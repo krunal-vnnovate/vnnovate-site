@@ -74,16 +74,18 @@ const CaseStudy = () => {
           >
             {caseStudyData.map((item) => (
               <SwiperSlide
-                key={item.id}
-                className="swiper-slide bg-img"
-                style={{ backgroundImage: `url(${item.image})` }}
-                data-overlay-dark="7"
-              >
+              key={item.id}
+              className="swiper-slide bg-img"
+              style={{
+                backgroundImage: `url(${item.image})`
+              }}
+              data-overlay-dark="7"
+            >   
                 <div className="container d-flex align-items-end">
                   <div className="cont">
                     <Link href="/showcase/showcase-dark">
                       <a>
-                        <span>Case Study</span>
+                        <span>Latest Case Study</span>
                         <h6 className="main-color">{item.date}</h6>
                         <h4>{item.title}</h4>
                       </a>

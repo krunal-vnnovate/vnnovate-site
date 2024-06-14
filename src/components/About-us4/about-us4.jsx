@@ -12,11 +12,11 @@ const AboutUs4 = () => {
         <div className="container-fluid">
           <div className="row">
             <div className="col-lg-6 img md-mb50">
-              <Image width={"1000"} height={"1000"} src="/img/intro/4.jpg" alt="" />
+              <Image width={"1000"} height={"1000"} src="/img/intro/Image.png" alt="" />
             </div>
             <div className="col-lg-4 valign">
               <div className="cont full-width">
-                <h3 className="color-font">Huge collection.</h3>
+                <h3 className="color-font">Transforming your business with advanced technologies </h3>
                 <h6>
                   Innovative solutions <br /> to boost your creative projects.
                 </h6>

@@ -11,6 +11,7 @@ import AboutUs2 from "../../components/About-us2/about-us2"
 import Services3 from "../../components/Services3/services3"
 import AboutUs4 from "../../components/About-us4/about-us4"
 import WorksStyle3 from "../../components/Works-style3/works-style3"
+import CaseStudy from "../../components/Case-study/case-study"
 
 const Homepage1 = () => {
   const fixedSlider = React.useRef(null)
@@ -57,7 +58,7 @@ const Homepage1 = () => {
         <Clients theme="light" />
         <AboutUs2  />
         <Services3 />
-        <Works />
+        <CaseStudy/>
         <WorksStyle3 />
         <AboutUs4 />
         <Blogs1 />

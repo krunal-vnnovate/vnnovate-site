@@ -3,7 +3,7 @@ import React from "react";
 import Split from "../Split";
 import AboutUs2Date from "../../data/sections/about-us2.json";
 import Image from "next/image";
-
+let style = {objectFit:"contain"}
 const AboutUs2 = () => {
   return (
     <div className="about section-padding">
@@ -14,15 +14,15 @@ const AboutUs2 = () => {
               <div className="row">
                 <div className="col-md-5 cmd-padding valign">
                   <div className="img1 wow imago" data-wow-delay=".5s">
-                    <Image width={"700"} height={"700"} src={AboutUs2Date.image1} alt="" />
+                    <Image width={"700"} height={"700"} style={style}  src={AboutUs2Date.image1} alt="" />
                   </div>
                 </div>
                 <div className="col-md-7 cmd-padding">
                   <div className="img2 wow imago" data-wow-delay=".3s">
-                    <Image width={"700"} height={"700"} src={AboutUs2Date.image2} alt="" />
+                    <Image width={"700"} height={"700"} style={style}  src={AboutUs2Date.image2} alt="" />
                   </div>
                   <div className="img3 wow imago" data-wow-delay=".8s">
-                    <Image width={"700"} height={"700"} src={AboutUs2Date.image3} alt="" />
+                    <Image  width={"700"} height={"700"} style={style} src={AboutUs2Date.image3} alt="" />
                   </div>
                   <div className="container">
                     <div className="row">

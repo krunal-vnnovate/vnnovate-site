@@ -1,20 +1,38 @@
 [
     {
         "id": 1,
-        "image": "/img/arch/slid/3.jpg",
-        "title": "FLOATING HOUSE MESSINIA",
+        "image": "/img/arch/slid/4.png",
+        "title": "DEALER",
         "date": "14 Sep 2022"
     },
     {
         "id": 2,
-        "image": "/img/arch/slid/2.jpg",
-        "title": "IN THE PINE FOREST",
+        "image": "/img/arch/slid/5.png",
+        "title": "JAGUAR LAND ROVER",
         "date": "14 Sep 2022"
     },
     {
         "id": 3,
-        "image": "/img/arch/slid/1.jpg",
-        "title": "BUGANVILLA HOUSE",
+        "image": "/img/arch/slid/6.png",
+        "title": "VOLVO POLESTER",
+        "date": "14 Sep 2022"
+    },
+    {
+        "id": 4,
+        "image": "/img/arch/slid/7.png",
+        "title": "FINTECH",
+        "date": "14 Sep 2022"
+    },
+    {
+        "id": 5,
+        "image": "/img/arch/slid/8.png",
+        "title": "REAL ESTATE",
+        "date": "14 Sep 2022"
+    },
+    {
+        "id": 6,
+        "image": "/img/arch/slid/9.png",
+        "title": "SPEECH TO TALK",
         "date": "14 Sep 2022"
     }
 ]

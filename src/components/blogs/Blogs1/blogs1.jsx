@@ -23,7 +23,7 @@ const Blogs1 = () => {
               <div className="img">
                 <Image
                   width="1000"
-                  height="560" src="/img/blog/1.jpg" alt="" />
+                  height="560" src="/img/blog/5.png" alt="" />
               </div>
               <div className="cont">
                 <div>
@@ -38,14 +38,14 @@ const Blogs1 = () => {
                     <span>/</span>
                     <Link href="/blog/blog-dark">
                       <a className="tag">
-                        <span>WordPress</span>
+                        <span>demo</span>
                       </a>
                     </Link>
                   </div>
                   <h5>
                     <Link href="/blog-details/blog-details-dark">
                       <a >
-                        How to use solid color combine with simple furnitures.
+                      Power of Node.js Serverless Computation
                       </a>
                     </Link>
                   </h5>
@@ -65,7 +65,7 @@ const Blogs1 = () => {
               <div className="img">
                 <Image
                  width="1000"
-                 height="560" src="/img/blog/2.jpg" alt="" />
+                 height="560" src="/img/blog/6.png" alt="" />
               </div>
               <div className="cont">
                 <div>
@@ -80,14 +80,14 @@ const Blogs1 = () => {
                     <span>/</span>
                     <Link href="/blog/blog-dark">
                       <a className="tag">
-                        <span>WordPress</span>
+                        <span>demo</span>
                       </a>
                     </Link>
                   </div>
                   <h5>
                     <Link href="/blog-details/blog-details-dark">
                       <a >
-                        How to use solid color combine with simple furnitures.
+                      Startup Dynamo: Empowering Branding Digitally in the Contemporary World
                       </a>
                     </Link>
                   </h5>
