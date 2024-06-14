@@ -21,6 +21,7 @@ const ShowcasesFullScreenCircleSlide = () => {
   const navigationPrevRef = React.useRef(null);
   const navigationNextRef = React.useRef(null);
   return (
+    <div className="container-fluid">
     <header className="slider circle-slide showcase-carus">
       <div id="content-carousel-container-unq-1" className="swiper-container">
         {!load ? (
@@ -145,6 +146,7 @@ const ShowcasesFullScreenCircleSlide = () => {
         </div>
       </div>
     </header>
+    </div>
   );
 };
 

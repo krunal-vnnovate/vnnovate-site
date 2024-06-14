@@ -25,11 +25,11 @@ const Works3 = () => {
           <div className="row">
             <div className="col-lg-8 col-md-10">
               <div className="sec-head">
-                <h6 className="wow fadeIn" data-wow-delay=".5s">
+                {/* <h6 className="wow fadeIn" data-wow-delay=".5s">
                   Portfolio
-                </h6>
+                </h6> */}
                 <h3 className="wow color-font">
-                  Our Recent Web Design &amp; <br /> Some Past Projects.
+                 Latest Case Study
                 </h3>
               </div>
             </div>
@@ -94,7 +94,7 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/2.jpg" alt="" />
+                          <img src="/img/portfolio/8.png" alt="" />
                         </span>
                       </div>
                       <div className="cont">
@@ -102,14 +102,14 @@ const Works3 = () => {
                           <Link
                             href={`/works3/works3-dark`}
                           >
-                            art &amp; illustration
+                            Auto Motive
                           </Link>
                         </h6>
                         <h4>
                           <Link
                             href={`/project-details2/project-details2-dark`}
                           >
-                            Inspiring new space
+                           Jaguar  &amp; Land Rover
                           </Link>
                         </h4>
                       </div>
@@ -120,7 +120,7 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/1.jpg" alt="" />
+                          <img src="/img/portfolio/9.png" alt="" />
                         </span>
                       </div>
                       <div className="cont">
@@ -128,14 +128,14 @@ const Works3 = () => {
                           <Link
                             href={`/works3/works3-dark`}
                           >
-                            art &amp; illustration
+                           Auto Motive
                           </Link>
                         </h6>
                         <h4>
                           <Link
                             href={`/project-details2/project-details2-dark`}
                           >
-                            Inspiring new space
+                            Volvo Polestar
                           </Link>
                         </h4>
                       </div>
@@ -146,7 +146,7 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/3.jpg" alt="" />
+                          <img src="/img/portfolio/10.png" alt="" />
                         </span>
                       </div>
                       <div className="cont">
@@ -154,14 +154,14 @@ const Works3 = () => {
                           <Link
                             href={`/works3/works3-dark`}
                           >
-                            art &amp; illustration
+                            Music
                           </Link>
                         </h6>
                         <h4>
                           <Link
                             href={`/project-details2/project-details2-dark`}
                           >
-                            Inspiring new space
+                            Afghan Music
                           </Link>
                         </h4>
                       </div>
@@ -172,7 +172,7 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/4.jpg" alt="" />
+                          <img src="/img/portfolio/11.png" alt="" />
                         </span>
                       </div>
                       <div className="cont">
@@ -180,14 +180,15 @@ const Works3 = () => {
                           <Link
                             href={`/works3/works3-dark`}
                           >
-                            art &amp; illustration
+                            Fintech
                           </Link>
                         </h6>
                         <h4>
                           <Link
                             href={`/project-details2/project-details2-dark`}
                           >
-                            Inspiring new space
+                            
+                            Currancy Treading
                           </Link>
                         </h4>
                       </div>
@@ -198,7 +199,7 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/5.jpg" alt="" />
+                          <img src="/img/portfolio/12.png" alt="" />
                         </span>
                       </div>
                       <div className="cont">
@@ -206,14 +207,14 @@ const Works3 = () => {
                           <Link
                             href={`/works3/works3-dark`}
                           >
-                            art &amp; illustration
+                            Ai Product
                           </Link>
                         </h6>
                         <h4>
                           <Link
                             href={`/project-details2/project-details2-dark`}
                           >
-                            Inspiring new space
+                            Speech To Text
                           </Link>
                         </h4>
                       </div>
@@ -224,7 +225,7 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/6.jpg" alt="" />
+                          <img src="/img/portfolio/13.png" alt="" />
                         </span>
                       </div>
                       <div className="cont">
@@ -232,14 +233,14 @@ const Works3 = () => {
                           <Link
                             href={`/works3/works3-dark`}
                           >
-                            art &amp; illustration
+                            Real Estate
                           </Link>
                         </h6>
                         <h4>
                           <Link
                             href={`/project-details2/project-details2-dark`}
                           >
-                            Inspiring new space
+                            Real Estate Search
                           </Link>
                         </h4>
                       </div>

@@ -12,6 +12,13 @@ import Services3 from "../../components/Services3/services3"
 import AboutUs4 from "../../components/About-us4/about-us4"
 import WorksStyle3 from "../../components/Works-style3/works-style3"
 import CaseStudy from "../../components/Case-study/case-study"
+import Blogs4 from "../../components/blogs/Blogs4/blogs4"
+import Portfolio from "../../components/Portfolio/portfolio"
+import Blogs3 from "../../components/blogs/Blogs3/blogs3"
+import Services2 from "../../components/Services2/services2"
+import SkillsCircle from "../../components/Skills-circle/skills-circle"
+import ShowcasesFullScreenCircleSlide from "../../components/Showcases-full-screen-circle-slide/showcases-full-screen-circle-slide"
+import Works3 from "../../components/Works3/works3"
 
 const Homepage1 = () => {
   const fixedSlider = React.useRef(null)
@@ -58,10 +65,17 @@ const Homepage1 = () => {
         <Clients theme="light" />
         <AboutUs2  />
         <Services3 />
-        <CaseStudy/>
-        <WorksStyle3 />
+        <Services2 style="4item" />
+        {/* <ShowcasesFullScreenCircleSlide /> */}
+        <Works3 />
+
+        {/* <CaseStudy/> */}
+        {/* <WorksStyle3 /> */}
+        {/* <Portfolio grid={3} filterPosition="center" /> */}
         <AboutUs4 />
-        <Blogs1 />
+        {/* <Blogs1 /> */}
+        <Blogs3 />
+
         <CallToAction />
         <Footer />
       </div>

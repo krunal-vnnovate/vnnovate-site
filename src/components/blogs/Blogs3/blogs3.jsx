@@ -19,7 +19,7 @@ const Blogs3 = () => {
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".3s">
             <div
               className="item bg-img"
-              style={{ backgroundImage: "url(/img/blog/1.jpg)" }}
+              style={{ backgroundImage: "url(/img/blog/5.png)" }}
             >
               <div className="cont">
                 <Link href="/blog/blog-dark">
@@ -58,7 +58,7 @@ const Blogs3 = () => {
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".6s">
             <div
               className="item active bg-img"
-              style={{ backgroundImage: "url(/img/blog/2.jpg)" }}
+              style={{ backgroundImage: "url(/img/blog/6.png)" }}
             >
               <div className="cont">
                 <Link href="/blog/blog-dark">
@@ -97,7 +97,7 @@ const Blogs3 = () => {
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".9s">
             <div
               className="item bg-img"
-              style={{ backgroundImage: "url(/img/blog/3.jpg)" }}
+              style={{ backgroundImage: "url(/img/blog/2.jpg)" }}
             >
               <div className="cont">
                 <Link href="/blog/blog-dark">

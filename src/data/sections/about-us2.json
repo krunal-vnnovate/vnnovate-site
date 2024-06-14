@@ -1,11 +1,11 @@
 {
   "id": 1,
-  "image1": "/img/intro/7155205.jpg",
-  "image2": "/img/intro/marketing-consulting-concept-illustration_114360-9027 (2).webp",
-  "image3": "/img/intro/6428197.jpg",
+  "image1": "/img/intro/5.png",
+  "image2": "/img/intro/5.png",
+  "image3": "/img/intro/5.png",
   "smallTitle": "About Us",
-  "title": { "first": "We are more than just", "second": "a digital agency." },
-  "content": "We are Vie. We create award-winning websites, remarkable brands and cutting-edge apps.Nullam imperdiet, sem at fringilla lobortis, sem nibh fringilla nibh, id gravida mi purus sit amet erat. Ut dictum nisi masvitp",
+  "title": { "first": "Empowering Innovation", "second": "Guided By Principles." },
+  "content": "Welcome to our leading software development firm, where innovation drives every endeavor, and values define our path. We are dedicated to pushing the boundaries of technology, merging groundbreaking solutions with extensive experience to bring your concepts to life. Our team's unwavering dedication to coding excellence and client satisfaction has established us as the go-to partner for driving digital evolution.",
   "features": [
     {
       "id": 1,

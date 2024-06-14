@@ -93,7 +93,7 @@ const Blogs4 = () => {
                       <div className="img">
                         <img
                           className="thumparallax"
-                          src="/img/blog/1.jpg"
+                          src="/img/blog/2.jpg"
                           alt=""
                         />
                       </div>
@@ -104,7 +104,7 @@ const Blogs4 = () => {
                       <div className="img">
                         <img
                           className="thumparallax"
-                          src="/img/blog/2.jpg"
+                          src="/img/blog/6.png"
                           alt=""
                         />
                       </div>

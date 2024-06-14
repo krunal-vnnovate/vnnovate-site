@@ -12,12 +12,11 @@ const Services3 = () => {
         <div className="row">
           <div className="col-lg-8 col-md-10">
             <div className="sec-head">
-              <h6 className="wow fadeIn" data-wow-delay=".5s">
-                Best Services
-              </h6>
+              {/* <h6 className="wow fadeIn" data-wow-delay=".5s">
+              Our Service Engagement Models
+              </h6> */}
               <h3 className="wow color-font">
-                We help to create strategies, design &amp; development.
-              </h3>
+                Our Services              </h3>
             </div>
           </div>
         </div>
@@ -27,11 +26,10 @@ const Services3 = () => {
               <span className="icon">
                 <i className="ion-ios-monitor"></i>
               </span>
-              <h5>Interface Design</h5>
+              <h5>Software Consulting</h5>
               <p>
-                Implementation and rollout of new network infrastructure,
-                including consolidation.
-              </p>
+              Utilize the most advanced software design from Vnnovate Solutions to grow
+              your company. We prioritize modern technology, superior security ....              </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke">
                   <span></span>
@@ -44,10 +42,10 @@ const Services3 = () => {
               <span className="icon">
                 <i className="ion-ios-bolt-outline"></i>
               </span>
-              <h5>Creative Always</h5>
+              <h5>ENTERPRISE SOFTWARE</h5>
               <p>
-                Implementation and rollout of new network infrastructure,
-                including consolidation.
+              We allow you to control everything from your fingertips. Our comprehensive
+              solutions effortlessly connect all parts of your organization ....
               </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke">
@@ -61,10 +59,10 @@ const Services3 = () => {
               <span className="icon">
                 <i className="ion-cube"></i>
               </span>
-              <h5>Real-time Editing</h5>
+              <h5>CLOUD INFRASTRUCTURE</h5>
               <p>
-                Implementation and rollout of new network infrastructure,
-                including consolidation.
+              Our Cloud Infrastructure services elevate enterprises of all sizes with
+                        unmatched agility, scalability, and security. We help startups and companies...
               </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke">
@@ -78,10 +76,10 @@ const Services3 = () => {
               <span className="icon">
                 <i className="ion-ios-color-wand"></i>
               </span>
-              <h5>Art Concept</h5>
+              <h5>RESOURCE AUGMENTATION</h5>
               <p>
-                Implementation and rollout of new network infrastructure,
-                including consolidation.
+              We know teamwork is key, thus our customized solutions easily incorporate
+              extra knowledge to power your projects. Our resource augmentation services...
               </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke">

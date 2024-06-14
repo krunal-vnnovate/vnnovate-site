@@ -15,11 +15,11 @@ const Portfolio = ({ grid, filterPosition }) => {
         <div className="row justify-content-center">
           <div className="col-lg-8 col-md-10">
             <div className="sec-head text-center">
-              <h6 className="wow fadeIn" data-wow-delay=".5s">
+              {/* <h6 className="wow fadeIn" data-wow-delay=".5s">
                 Portfolio
-              </h6>
+              </h6> */}
               <h3 className="wow color-font">
-                Our Recent Web Design &amp; <br /> Some Past Projects.
+              Our Expertise
               </h3>
             </div>
           </div>
@@ -40,9 +40,9 @@ const Portfolio = ({ grid, filterPosition }) => {
               <span data-filter="*" className="active">
                 All
               </span>
-              <span data-filter=".brand">Branding</span>
-              <span data-filter=".web">Mobile App</span>
-              <span data-filter=".graphic">Creative</span>
+              <span data-filter=".brand">Web Development</span>
+              <span data-filter=".web">Mobile App Development</span>
+              <span data-filter=".graphic">Resource Augmentaion</span>
             </div>
           </div>
 
@@ -125,7 +125,7 @@ const Portfolio = ({ grid, filterPosition }) => {
               </div>
             </div>
 
-            <div
+            {/* <div
               className={`${
                 grid === 3
                   ? "col-lg-4 col-md-6"
@@ -201,7 +201,7 @@ const Portfolio = ({ grid, filterPosition }) => {
                   <a href="#0">Design</a>, <a href="#0">WordPress</a>
                 </span>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

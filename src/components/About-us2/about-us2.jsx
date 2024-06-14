@@ -22,7 +22,7 @@ const AboutUs2 = () => {
                     <Image width={"700"} height={"700"} style={style}  src={AboutUs2Date.image2} alt="" />
                   </div>
                   <div className="img3 wow imago" data-wow-delay=".8s">
-                    <Image  width={"700"} height={"700"} style={style} src={AboutUs2Date.image3} alt="" />
+                    <Image  width={"800"} height={"700"} style={style} src={AboutUs2Date.image3} alt="" />
                   </div>
                   <div className="container">
                     <div className="row">
@@ -82,7 +82,10 @@ const AboutUs2 = () => {
         </div>
       </div>
     </div>
+    
   );
+  <div className="line bottom left"></div>
+
 };
 
 export default AboutUs2;
